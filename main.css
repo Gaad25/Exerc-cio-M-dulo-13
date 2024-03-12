@@ -1,0 +1,5 @@
+.carousel-item img {
+    max-height: 500px; /* Ajuste para a altura desejada */
+    width: auto; /* Mantém a proporção da imagem */
+    margin: auto; /* Centraliza a imagem */
+}
